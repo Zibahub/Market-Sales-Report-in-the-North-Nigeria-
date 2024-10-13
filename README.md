@@ -81,7 +81,7 @@ WHERE CONDITION = TRUE
 
 ### Report
 
-- The stores with the Smallest revenues should be closed, to avoid wasting of resources and those regions with good returns should be improved and invested in
+- The stores with too low revenues should be closed, to avoid wasting of resources and those regions with good returns should be improved and invested in.  The other option is to improve on making Market research and to do what is required for better result 
 
 - It was concluded that Better investment is to be made to those regions as they generate good revenues, 
 
