@@ -1,7 +1,7 @@
 # Market-Sales Inventory in the North Nigeria
 ### Project Overview
 
-This project was conducted in order to generate deep insight into the Revenue of the shop owners in Marrkets around and in the Northern part of Nigeria over the past Year. We took several analysis on the various parameters in the data of the Pivot Table given below. This is aimed at telling a compelling story around our data based on the information gotten from the data.  So follow me as we dive into the market sales record of a particular region in Nigeria, That is, North west, North-East, and North Central.
+This project was conducted in order to generate deep insight into the Revenue of the shop owners in Markets around and in the Northern part of Nigeria over the past Year. We took several analysis on the various parameters in the data of the Pivot Table. This is aimed at telling a compelling story around our data based on the information gotten from the data.  So follow me as we dive into the market sales record of a particular region in Nigeria, That is, North west, North-East, and North Central.
 
 
 ### Data sources
