@@ -61,4 +61,9 @@ WHERE CONDITION = TRUE
 ### Visualization
 
 [Zibah Visuals. Pivot Chart 2.pdf](https://github.com/user-attachments/files/17353212/Zibah.Visuals.Pivot.Chart.2.pdf)
-[Zibah Visuals. Pivot Chart 2.pdf](https://github.com/user-attachments/files/17353211/Zibah.Visuals.Pivot.Chart.2.pdf)
+[Zibah Visuals. Pivot Chart 2.pdf](https://github.com/user-attachments/files/17353211/Zibah.Visuals.Pivot.Chart.2.pdf
+
+
+### Report
+
+The stores with the Smallest revenues should be closed and those regions with good returns should be improved and better investment to be made to those regions as they generate good revenues, the ones with potential for growth should be pushed either by financial support or by employing more hands to make better results. Thank you. 
