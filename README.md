@@ -26,7 +26,7 @@ The primary data source is from sale.csv, an open source data that can be gotten
 
 ### Data Cleaning and Preparation
 
-- Using the Pivot Tables, we were able to summarise the full data of of all stores, in different markets in the whole of North Nigeria which is a very large data.
+- Using the Pivot Tables, we were able to summarise the full data of all stores, in different markets in the whole of North Nigeria which is a very large data.
 - We also categorised the Units Sold by the shop owners into 3 Categories  for easier Analysis using the IF and IFS condition.
 - We also summarised the data to smaller tables Using the PIVOT. 
 
@@ -81,7 +81,8 @@ WHERE CONDITION = TRUE
 
 ### Report
 
-The stores with the Smallest revenues should be closed, to avoid wasting of resources and those regions with good returns should be improved and invested in
+- The stores with the Smallest revenues should be closed, to avoid wasting of resources and those regions with good returns should be improved and invested in
 
-Better investment to be made to those regions as they generate good revenues, 
-The ones with potential for growth should be pushed either by financial support or by employing more hands to make better results and better market strategies. 
+- It was concluded that Better investment is to be made to those regions as they generate good revenues, 
+
+- The ones with potential for growth should be pushed either by financial support or by employing more hands to make better results and better market strategies. 
