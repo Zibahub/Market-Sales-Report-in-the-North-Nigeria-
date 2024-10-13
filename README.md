@@ -59,11 +59,29 @@ WHERE CONDITION = TRUE
 ```
 
 ### Visualization
+![Screenshot (8)](https://github.com/user-attachments/assets/78a50916-5eba-45cd-a154-8f196c4a7107)
 
-[Zibah Visuals. Pivot Chart 2.pdf](https://github.com/user-attachments/files/17353212/Zibah.Visuals.Pivot.Chart.2.pdf)
-[Zibah Visuals. Pivot Chart 2.pdf](https://github.com/user-attachments/files/17353211/Zibah.Visuals.Pivot.Chart.2.pdf
+![Screenshot (9)](https://github.com/user-attachments/assets/36386dd0-7aa1-4073-9149-cb879dac6e43)
+![Screenshot (10)](https://github.com/user-attachments/assets/e76a786e-4ec1-4080-ad92-bcb88e706904)
 
+![Screenshot (11)](https://github.com/user-attachments/assets/652defa2-e4fd-4be2-916a-9db10a6ac691)
+![Screenshot (12)](https://github.com/user-attachments/assets/26e18133-5854-4b34-a8f6-baa09a4f1ec4)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/6c389f2b-a667-416a-a9ab-6561a5eec673)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/d9d68b32-5d41-42ce-8925-c630ce5a2b9c)
+![Screenshot (15)](https://github.com/user-attachments/assets/1d083a4e-db6b-41e0-96f3-0384ac689679)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/b5e62c52-7671-4d75-8b84-67396bd7c8d7)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/2552bec8-4fcd-40ab-bfcf-1584461da1ac)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/d283562d-1416-4957-80c0-3592a5289a6d)
+![Screenshot (19)](https://github.com/user-attachments/assets/744ac8c5-f5bf-42cc-8b6b-810d4361aeca)
 
 ### Report
 
-The stores with the Smallest revenues should be closed and those regions with good returns should be improved and better investment to be made to those regions as they generate good revenues, the ones with potential for growth should be pushed either by financial support or by employing more hands to make better results. Thank you. 
+The stores with the Smallest revenues should be closed, to avoid wasting of resources and those regions with good returns should be improved and invested in
+
+Better investment to be made to those regions as they generate good revenues, 
+The ones with potential for growth should be pushed either by financial support or by employing more hands to make better results and better market strategies. 
